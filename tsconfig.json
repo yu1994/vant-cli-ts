@@ -1,0 +1,10 @@
+{
+  // "extends": "../../tsconfig",
+  "compilerOptions": {
+    "allowJs": true,
+    "noImplicitThis": true,
+    "jsx": "preserve"
+  },
+  "jsx": "react",
+  "include": ["src/**/*", "docs/**/*", "test/**/*"]
+}
